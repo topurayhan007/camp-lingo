@@ -1,5 +1,0 @@
-0 0 37320:43280 / / binary,noacl,auto - ntfs C:/Program Files/Git rw
-1 1 37320:43280 / /bin binary,noacl,auto - ntfs C:/Program Files/Git/usr/bin rw
-2 2 37320:43280 / /tmp binary,noacl,posix=0,usertemp - ntfs C:/Users/Topu/AppData/Local/Temp rw
-3 3 37320:43280 / /c binary,noacl,posix=0,user,noumount,auto - ntfs C: rw
-4 4 58283:64816 / /d binary,noacl,posix=0,user,noumount,auto - ntfs D: rw

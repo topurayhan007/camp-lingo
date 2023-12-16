@@ -1,7 +1,0 @@
-major minor  #blocks  name   win-mounts
-
-    8     0 1000204632 sda
-    8     1    102400 sda1  
-    8     2     16384 sda2
-    8     3 265876578 sda3   C:\
-    8     4 734206872 sda4   D:\

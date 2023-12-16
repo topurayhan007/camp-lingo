@@ -1,5 +1,0 @@
-C:/Program Files/Git / ntfs binary,noacl,auto 1 1
-C:/Program Files/Git/usr/bin /bin ntfs binary,noacl,auto 1 1
-C:/Users/Topu/AppData/Local/Temp /tmp ntfs binary,noacl,posix=0,usertemp 1 1
-C: /c ntfs binary,noacl,posix=0,user,noumount,auto 1 1
-D: /d ntfs binary,noacl,posix=0,user,noumount,auto 1 1
